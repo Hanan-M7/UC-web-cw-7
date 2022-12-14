@@ -36,4 +36,3 @@ let student={
   name:"Hanan",
   university:"Kuwait University"
 }
-
